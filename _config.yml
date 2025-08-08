@@ -1,0 +1,15 @@
+# Basic Site Settings
+#------------------------------------------------
+title: Emma's Henna
+description: I like henna.
+show_downloads: false
+
+# Theme
+#------------------------------------------------
+theme: jekyll-theme-cayman
+
+# Build Settings
+#------------------------------------------------
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
