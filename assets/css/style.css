@@ -1,5 +1,4 @@
-@import "{{ site.theme }}";
-@import 'jekyll-theme-cayman';
+@import '/_saas/jekyll-theme-cayman';
 .masonry-grid {
   column-count: 3;
   column-gap: 20px; 
