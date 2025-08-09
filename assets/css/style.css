@@ -22,7 +22,6 @@
   align-items: center;
   z-index: 1000; /* Ensure it's on top */
 }
-
 #lightbox-overlay img {
   max-width: 90%;
   max-height: 90%;
