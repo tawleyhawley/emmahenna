@@ -51,4 +51,3 @@
     <img src="assets/images/Sweet Pea - April .jpg" alt="Image description">
   </a>
 </div>
-Water Lily - July
