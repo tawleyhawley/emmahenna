@@ -1,29 +1,29 @@
-f<div class="masonry-grid">
-      <a href="assets/images/Poppy - August.jpg" data-lightbox="gallery">
-    <img src="assets/images/Poppy - August.jpg" alt="Image description">
+<div class="masonry-grid">
+  <a href="assets/images/Poppy - August.PNG" data-lightbox="gallery">
+    <img src="assets/images/Poppy - August.PNG" alt="Image description">
   </a>
-      <a href="assets/images/Water Lily - July.jpg" data-lightbox="gallery">
+  <a href="assets/images/Water Lily - July.jpg" data-lightbox="gallery">
     <img src="assets/images/Water Lily - July.jpg" alt="Image description">
   </a>
-   <a href="assets/images/Roses- June.jpg" data-lightbox="gallery">
+  <a href="assets/images/Roses- June.jpg" data-lightbox="gallery">
     <img src="assets/images/Roses- June.jpg" alt="Image description">
   </a>
-   <a href="assets/images/Palm Rose.jpg" data-lightbox="gallery">
+  <a href="assets/images/Palm Rose.jpg" data-lightbox="gallery">
     <img src="assets/images/Palm Rose.jpg" alt="Image description">
   </a>
     <a href="assets/images/Hand Henna Roses (1).jpg" data-lightbox="gallery">
     <img src="assets/images/Hand Henna Roses (1).jpg" alt="Image description">
   </a>
-   <a href="assets/images/Hawthorn - May.jpg" data-lightbox="gallery">
-    <img src="assets/images/Hawthorn - May.jpg" alt="Image description">
+  <a href="assets/images/Hawthorn - May.JPG" data-lightbox="gallery">
+    <img src="assets/images/Hawthorn - May.JPG" alt="Image description">
   </a>
- <a href="assets/images/Classic Daffodils - March.jpg" data-lightbox="gallery">
-    <img src="assets/images/Classic Daffodils - March.jpg" alt="Image description">
+  <a href="assets/images/Daffodils - March.jpg" data-lightbox="gallery">
+    <img src="assets/images/Daffodils - March.jpg" alt="Image description">
   </a>
-   <a href="assets/images/Palm roses.jpg" data-lightbox="gallery">
+  <a href="assets/images/Palm roses.jpg" data-lightbox="gallery">
     <img src="assets/images/Palm roses.jpg" alt="Image description">
   </a>
-    <a href="assets/images/Sweet Pea - April .jpg" data-lightbox="gallery">
+  <a href="assets/images/Sweet Pea - April .jpg" data-lightbox="gallery">
     <img src="assets/images/Sweet Pea - April .jpg" alt="Image description">
   </a>
   <a href="assets/images/Arm basic.jpg" data-lightbox="gallery">
