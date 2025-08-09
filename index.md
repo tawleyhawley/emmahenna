@@ -11,8 +11,8 @@
   <a href="assets/images/Palm Rose.jpg" data-lightbox="gallery">
     <img src="assets/images/Palm Rose.jpg" alt="Image description">
   </a>
-    <a href="assets/images/Hand Henna Roses (1).jpg" data-lightbox="gallery">
-    <img src="assets/images/Hand Henna Roses (1).jpg" alt="Image description">
+    <a href="assets/images/Hand Henna Roses (1).JPG" data-lightbox="gallery">
+    <img src="assets/images/Hand Henna Roses (1).JPG" alt="Image description">
   </a>
   <a href="assets/images/Hawthorn - May.JPG" data-lightbox="gallery">
     <img src="assets/images/Hawthorn - May.JPG" alt="Image description">
@@ -32,17 +32,17 @@
    <a href="assets/images/Classic Floral Arm Henna .jpg" data-lightbox="gallery">
     <img src="assets/images/Classic Floral Arm Henna .jpg" alt="Image description">
   </a>
-   <a href="assets/images/Hand Flowers Hengua.jpg" data-lightbox="gallery">
-    <img src="assets/images/Hand Flowers Hengua.jpg" alt="Image description">
+   <a href="assets/images/Hand Flowers Hengua.JPG" data-lightbox="gallery">
+    <img src="assets/images/Hand Flowers Hengua.JPG" alt="Image description">
   </a>
    <a href="assets/images/Lotus Shoulder Henna.jpg" data-lightbox="gallery">
-    <img src="assets/images/Lotus Shoulder Henna.jpg.jpg" alt="Image description">
+    <img src="assets/images/Lotus Shoulder Henna.jpg" alt="Image description">
   </a>
     <a href="assets/images/Palm hengua flowers.jpg" data-lightbox="gallery">
     <img src="assets/images/Palm hengua flowers.jpg" alt="Image description">
   </a>
-    <a href="assets/images/Thigh flowers large (1).jpg" data-lightbox="gallery">
-    <img src="assets/images/Thigh flowers large (1).jpg" alt="Image description">
+    <a href="assets/images/Thigh flowers large  (1).jpg" data-lightbox="gallery">
+    <img src="assets/images/Thigh flowers large  (1).jpg" alt="Image description">
   </a>
     <a href="assets/images/Henna_Jagua lower arm.jpg" data-lightbox="gallery">
     <img src="assets/images/Henna_Jagua lower arm.jpg" alt="Image description">
