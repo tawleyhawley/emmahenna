@@ -6,6 +6,8 @@ description: I like henna.
 # Theme
 #------------------------------------------------
 theme: jekyll-theme-cayman
+show_downloads: false
+google_analytics:
 
 # Build Settings
 #------------------------------------------------
