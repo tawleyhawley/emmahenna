@@ -1,50 +1,50 @@
 <div class="masonry-grid">
-  <a href="assets/images/Poppy - August.PNG" data-lightbox="gallery">
-    <img src="assets/images/Poppy - August.PNG" alt="Image description">
+  <a href="assets/images/poppy-august.png" data-lightbox="gallery">
+    <img src="assets/images/poppy-august.png" alt="poppy">
   </a>
-  <a href="assets/images/Water Lily - July.jpg" data-lightbox="gallery">
-    <img src="assets/images/Water Lily - July.jpg" alt="Image description">
+  <a href="assets/images/water-lily-july.jpg" data-lightbox="gallery">
+    <img src="assets/images/water-lily-july.jpg" alt="water lilly">
   </a>
-  <a href="assets/images/Roses- June.jpg" data-lightbox="gallery">
-    <img src="assets/images/Roses- June.jpg" alt="Image description">
+  <a href="assets/images/roses-june.jpg" data-lightbox="gallery">
+    <img src="assets/images/roses-june.jpg" alt="roses">
   </a>
-  <a href="assets/images/Palm Rose.jpg" data-lightbox="gallery">
-    <img src="assets/images/Palm Rose.jpg" alt="Image description">
+  <a href="assets/images/palm-rose.jpg" data-lightbox="gallery">
+    <img src="assets/images/palm-rose.jpg" alt="palm-rose">
   </a>
-    <a href="assets/images/Hand Henna Roses (1).JPG" data-lightbox="gallery">
-    <img src="assets/images/Hand Henna Roses (1).JPG" alt="Image description">
+  <a href="assets/images/hand-henna-roses.jpg" data-lightbox="gallery">
+    <img src="assets/images/hand-henna-roses.jpg" alt="roses">
   </a>
-  <a href="assets/images/Hawthorn - May.JPG" data-lightbox="gallery">
-    <img src="assets/images/Hawthorn - May.JPG" alt="Image description">
+  <a href="assets/images/hawthorn-may.jpg" data-lightbox="gallery">
+    <img src="assets/images/hawthorn-may.jpg" alt="hawthorn">
   </a>
-  <a href="assets/images/Daffodils - March.jpg" data-lightbox="gallery">
-    <img src="assets/images/Daffodils - March.jpg" alt="Image description">
+  <a href="assets/images/daffodils-march.jpg" data-lightbox="gallery">
+    <img src="assets/images/daffodils-march.jpg" alt="daffodils">
   </a>
-  <a href="assets/images/Palm roses.jpg" data-lightbox="gallery">
-    <img src="assets/images/Palm roses.jpg" alt="Image description">
+  <a href="assets/images/palm-roses.jpg" data-lightbox="gallery">
+    <img src="assets/images/palm-roses.jpg" alt="palm roses">
   </a>
-  <a href="assets/images/Sweet Pea - April .jpg" data-lightbox="gallery">
-    <img src="assets/images/Sweet Pea - April .jpg" alt="Image description">
+  <a href="assets/images/sweet-pea-april.jpg" data-lightbox="gallery">
+    <img src="assets/images/sweet-pea-april.jpg" alt="sweet pea">
   </a>
-  <a href="assets/images/Arm basic.jpg" data-lightbox="gallery">
-    <img src="assets/images/Arm basic.jpg" alt="Image description">
+  <a href="assets/images/arm-basic.jpg" data-lightbox="gallery">
+    <img src="assets/images/arm-basic-sm.jpg" alt="arm basic">
   </a>
-   <a href="assets/images/Classic Floral Arm Henna .jpg" data-lightbox="gallery">
-    <img src="assets/images/Classic Floral Arm Henna .jpg" alt="Image description">
+   <a href="assets/images/classic-floral-arm-henna.jpg" data-lightbox="gallery">
+    <img src="assets/images/classic-floral-arm-henna.jpg" alt="classic floral arm">
   </a>
-   <a href="assets/images/Hand Flowers Hengua.JPG" data-lightbox="gallery">
-    <img src="assets/images/Hand Flowers Hengua.JPG" alt="Image description">
+   <a href="assets/images/hand-flowers-hengua.jpg" data-lightbox="gallery">
+    <img src="assets/images/hand-flowers-hengua.jpg" alt="hand flowers">
   </a>
-   <a href="assets/images/Lotus Shoulder Henna.jpg" data-lightbox="gallery">
-    <img src="assets/images/Lotus Shoulder Henna.jpg" alt="Image description">
+   <a href="assets/images/lotus-shoulder-henna.jpg" data-lightbox="gallery">
+    <img src="assets/images/lotus-shoulder-henna.jpg" alt="lotus shoulder">
   </a>
-    <a href="assets/images/Palm hengua flowers.jpg" data-lightbox="gallery">
-    <img src="assets/images/Palm hengua flowers.jpg" alt="Image description">
+  <a href="assets/images/palm-hengua-flowers.jpg" data-lightbox="gallery">
+    <img src="assets/images/palm-hengua-flowers.jpg" alt="palm flowers">
   </a>
-    <a href="assets/images/Thigh flowers large  (1).jpg" data-lightbox="gallery">
-    <img src="assets/images/Thigh flowers large  (1).jpg" alt="Image description">
+  <a href="assets/images/thigh-flowers-large.jpg" data-lightbox="gallery">
+    <img src="assets/images/thigh-flowers-large.jpg" alt="thigh flowers">
   </a>
-    <a href="assets/images/Henna_Jagua lower arm.jpg" data-lightbox="gallery">
-    <img src="assets/images/Henna_Jagua lower arm.jpg" alt="Image description">
+  <a href="assets/images/jagua-lower-arm.jpg" data-lightbox="gallery">
+    <img src="assets/images/jagua-lower-arm.jpg" alt="lower arm">
   </a>
 </div>
