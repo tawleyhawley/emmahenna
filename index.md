@@ -2,8 +2,8 @@
   <a href="assets/images/poppy-august.png" data-lightbox="gallery">
     <img src="assets/images/poppy-august.png" alt="poppy">
   </a>
-  <a href="assets/images/water-lilly-july.jpg" data-lightbox="gallery">
-    <img src="assets/images/water-lilly-july.jpg" alt="water lilly">
+  <a href="assets/images/water-lily-july.jpg" data-lightbox="gallery">
+    <img src="assets/images/water-lily-july.jpg" alt="water lilly">
   </a>
   <a href="assets/images/roses-june.jpg" data-lightbox="gallery">
     <img src="assets/images/roses-june.jpg" alt="roses">
@@ -44,7 +44,7 @@
   <a href="assets/images/thigh-flowers-large.jpg" data-lightbox="gallery">
     <img src="assets/images/thigh-flowers-large.jpg" alt="thigh flowers">
   </a>
-  <a href="assets/images/henna-jagua-lower-arm.jpg" data-lightbox="gallery">
-    <img src="assets/images/henna-jagua-lower-arm.jpg" alt="lower arm">
+  <a href="assets/images/jagua-lower-arm.jpg" data-lightbox="gallery">
+    <img src="assets/images/jagua-lower-arm.jpg" alt="lower arm">
   </a>
 </div>
