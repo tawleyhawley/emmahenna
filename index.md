@@ -27,7 +27,7 @@
     <img src="assets/images/sweet-pea-april.jpg" alt="sweet pea">
   </a>
   <a href="assets/images/arm-basic.jpg" data-lightbox="gallery">
-    <img src="assets/images/arm-basic.jpg" alt="arm basic">
+    <img src="assets/images/arm-basic-sm.jpg" alt="arm basic">
   </a>
    <a href="assets/images/classic-floral-arm-henna.jpg" data-lightbox="gallery">
     <img src="assets/images/classic-floral-arm-henna.jpg" alt="classic floral arm">
