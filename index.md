@@ -44,7 +44,4 @@
   <a href="assets/images/jagua-lower-arm.jpg" data-lightbox="gallery">
     <img src="assets/images/jagua-lower-arm-sm.jpg" alt="lower arm">
   </a>
-    <a href="assets/images/mushrooms.heic" data-lightbox="gallery">
-    <img src="assets/images/mushrooms.heic" alt="lower arm">
-  </a>
 </div>
