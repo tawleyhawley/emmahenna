@@ -1,4 +1,5 @@
 Henna has been used for thousands of years across many cultures—as a natural dye, a blessing for weddings, a ritual of protection, and a way to celebrate beauty.
+
 Whether you’re marking a special occasion or simply celebrating yourself, my goal is to make you feel adorned, radiant, and empowered through the timeless beauty of henna.
 
 <div class="masonry-grid">
