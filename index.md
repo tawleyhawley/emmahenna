@@ -1,4 +1,17 @@
 <div class="masonry-grid">
+  <a href="assets/images/hawthorns.jpg" data-lightbox="gallery">
+    <img src="assets/images/hawthorns-sm.jpg" alt="hawthorns">
+  </a>
+  <a href="assets/images/mushrooms.png" data-lightbox="gallery">
+    <img src="assets/images/mushrooms-sm.png" alt="mushrooms">
+  </a>
+  <a href="assets/images/rose-with-fingers.png" data-lightbox="gallery">
+    <img src="assets/images/rose-with-fingers-sm.png" alt="rose with fingers">
+  </a>
+  <a href="assets/images/three-little-roses.jpg" data-lightbox="gallery">
+    <img src="assets/images/three-little-roses-sm.jpg" alt="three little roses">
+  </a>
+
   <a href="assets/images/poppy-august.png" data-lightbox="gallery">
     <img src="assets/images/poppy-august-sm.png" alt="poppy">
   </a>
