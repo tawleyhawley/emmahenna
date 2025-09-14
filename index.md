@@ -50,9 +50,6 @@ My henna comes from The Henna Lady at 10DayInk, who partners with farmers in Ind
   <a href="assets/images/palm-hengua-flowers.jpg" data-lightbox="gallery">
     <img src="assets/images/palm-hengua-flowers-sm.jpg" alt="palm flowers">
   </a>
-  <a href="assets/images/jagua-lower-arm.jpg" data-lightbox="gallery">
-    <img src="assets/images/jagua-lower-arm-sm.jpg" alt="lower arm">
-  </a>
     <a href="assets/images/mushrooms.png" data-lightbox="gallery">
     <img src="assets/images/mushrooms-sm.png" alt="mushrooms">
   </a>
