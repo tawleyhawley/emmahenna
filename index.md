@@ -1,8 +1,7 @@
 
 Celebrate your birthday with a henna design of your birth flower! 
 
-My henna comes from The Henna Lady at 10DayInk, who partners with farmers in India and Peru. There are only four ingredients: henna powder, lemon juice, sugar, and essential oil. Henna powder comes from the Lawsonia inermis plant, a shrub that thrives in warm climates such as India, Egypt, and North Africa. Jagua gel is a deep blue-black stain made from the Genipa americana fruit, native to South America.
-
+Henna and Jagua cones are sourced from The Henna Lady at 10DayInk, who partners with farmers in India and Peru. There are only four ingredients: henna powder, lemon juice, sugar, and essential oil. 
 
 <div class="masonry-grid">
   <a href="assets/images/hawthorns.jpg" data-lightbox="gallery">
