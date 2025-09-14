@@ -22,9 +22,6 @@ Henna and Jagua cones are sourced from The Henna Lady at 10DayInk, who partners 
   <a href="assets/images/lotus-shoulder-henna.jpg" data-lightbox="gallery">
     <img src="assets/images/lotus-shoulder-henna-sm.jpg" alt="lotus shoulder">
   </a>
-  <a href="assets/images/mushrooms.png" data-lightbox="gallery">
-    <img src="assets/images/mushrooms-sm.jpg" alt="mushrooms">
-  </a>
   <a href="assets/images/palm-rose.jpg" data-lightbox="gallery">
     <img src="assets/images/palm-rose-sm.jpg" alt="palm-rose">
   </a>
