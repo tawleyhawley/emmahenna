@@ -13,14 +13,14 @@ Henna and Jagua cones are sourced from The Henna Lady at 10DayInk, who partners 
   <a href="assets/images/hawthorns.jpg" data-lightbox="gallery">
     <img src="assets/images/hawthorns-sm.jpg" alt="hawthorns">
   </a>
-  <a href="assets/images/palm-rose.jpg" data-lightbox="gallery">
-    <img src="assets/images/palm-rose-sm.jpg" alt="palm-rose">
-  </a>
   <a href="assets/images/rose-arm.jpg" data-lightbox="gallery">
     <img src="assets/images/rose-arm-sm.jpg" alt="palm flowers">
   </a>
   <a href="assets/images/single-rose.png" data-lightbox="gallery">
     <img src="assets/images/single-rose-sm.jpg" alt="palm flowers">
+  </a>
+  <a href="assets/images/palm-rose.jpg" data-lightbox="gallery">
+    <img src="assets/images/palm-rose-sm.jpg" alt="palm-rose">
   </a>
   <a href="assets/images/three-little-roses.png" data-lightbox="gallery">
     <img src="assets/images/three-little-roses-sm.jpg" alt="three little roses">
