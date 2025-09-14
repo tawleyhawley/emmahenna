@@ -10,12 +10,6 @@ Henna and Jagua cones are sourced from The Henna Lady at 10DayInk, who partners 
   <a href="assets/images/daffodils-palm.jpg" data-lightbox="gallery">
     <img src="assets/images/daffodils-palm-sm.jpg" alt="arm basic">
   </a>
-  <a href="assets/images/flower-bracelet.jpg" data-lightbox="gallery">
-    <img src="assets/images/flower-bracelet-sm.jpg" alt="arm basic">
-  </a>
-  <a href="assets/images/hawthorn-geoflower.jpg" data-lightbox="gallery">
-    <img src="assets/images/hawthorn-geoflower-sm.jpg" alt="hawthorns">
-  </a>
   <a href="assets/images/hawthorns.jpg" data-lightbox="gallery">
     <img src="assets/images/hawthorns-sm.jpg" alt="hawthorns">
   </a>
@@ -36,6 +30,12 @@ Henna and Jagua cones are sourced from The Henna Lady at 10DayInk, who partners 
   </a>
   <a href="assets/images/water-lily.jpg" data-lightbox="gallery">
     <img src="assets/images/water-lily-sm.jpg" alt="three little roses">
+  </a>
+    <a href="assets/images/flower-bracelet.jpg" data-lightbox="gallery">
+    <img src="assets/images/flower-bracelet-sm.jpg" alt="arm basic">
+  </a>
+  <a href="assets/images/hawthorn-geoflower.jpg" data-lightbox="gallery">
+    <img src="assets/images/hawthorn-geoflower-sm.jpg" alt="hawthorns">
   </a>
     <a href="assets/images/poppy.png" data-lightbox="gallery">
     <img src="assets/images/poppy-sm.jpg" alt="palm flowers">
